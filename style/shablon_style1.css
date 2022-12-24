@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Montserrat:ital,wght@1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display&family=Raleway:ital,wght@1,300&display=swap');
+
+.video{
+	
+	width: 930px;
+	height: auto;
+	background: black;
+	border-radius: 20px;
+	background: #1db954;
+	margin: auto 10px;
+padding: 15px;
+display: flex;
+	
+}
+
+.video iframe{
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+	
+}
+
+.films{
+
+		width: 900px;
+	height: auto;
+	background: #191414;
+	margin: 0px 0px;
+	border-radius: 20px;
+	padding: 10px;
+	align-items: center
+}
+
+.discr{
+	width: 600px;
+	height: 345px;
+	background: #1db954;
+		margin: auto 10px;
+padding: 15px;
+	border-radius: 20px;
+
+	
+}
+
+.wrapper{
+	margin: 20px;
+	display: flex;
+    justify-content: center;
+	
+}
+
+.body{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	padding: 20px ;
+}
+
+.image{
+	width: 200px;
+	height: 295px;
+	margin: 0px 10px;
+	border-radius: 5px;
+	
+}
+
+.image{
+	width: 200px;
+	height: 295px;
+	margin: 0px 10px;
+	border-radius: 5px;
+	background: #191414;
+	
+}
+
+.banner{
+	width: 196px;
+	height: 290px;
+	border-radius: 5px;
+	margin: 2px;
+	
+}
+
+.info{
+	width: 300px;
+	height: 295px;
+	background: #191414;
+	margin: 0px 10px;
+	border-radius: 20px;
+	padding: 4px;
+
+	
+}
+
+.d1{
+	display: flex;
+	justify-content: center;
+	margin: 10px auto;
+	
+}
+
+.d2{
+	width: 500px;
+	height: 300px;
+	margin: 10px auto;
+	
+	overflow-x:hidden;
+	
+	display: flex;
+	justify-content: center;
+	background: blue;
+	border-radius: 20px;
+	padding: 4px;
+	
+}
+
+.dtext{
+	word-wrap: break-word;
+	font-size: 16px;
+	font-family: 'Raleway', sans-serif;
+	padding: 0px 10px;
+}
+
+h1, h3{
+		overflow-wrap: break-word;
+		color: white;
+		font-size: small;
+		padding: 0px 10px;
+		
+}
+
+
+
+h1{
+
+	font-family: 'Noto Sans Display', sans-serif;
+	
+	font-size: 40px !important;
+}
+
+h3{
+	font-size: 20px !important;
+	
+}
+
+html{
+	height: 100%;
+	width: 100%;
+}
+
+tr{
+ 	background-color: #191414;
+ 	padding: 10px;
+ 	border-radius: 20px;
+ 	border: none;
+}
+
+ .table{
+ 	background-color: #191414;
+ 	padding: 10px;
+ 	border-radius: 20px;
+ 	border: none;
+
+ }
+
+ .dd{
+ 	
+ 	
+
+ }
+	
